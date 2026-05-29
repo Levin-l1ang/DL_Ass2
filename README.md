@@ -8,7 +8,9 @@ git clone https://github.com/Levin-l1ang/DL_Ass2.git
 
 
 ## Update
+```bash
 git checkout -b your-branch-name
 git add .
 git commit -m "Update work"
 git push -u origin your-branch-name
+```
