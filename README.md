@@ -4,8 +4,10 @@
 
 ```bash
 git clone https://github.com/Levin-l1ang/DL_Ass2.git
+```
 
-## update
+
+## Update
 git checkout -b your-branch-name
 git add .
 git commit -m "Update work"
